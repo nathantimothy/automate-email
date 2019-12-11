@@ -1,4 +1,4 @@
-# automate-emails
+# automate-email
 Basic program that can send a personalized email to as many people as you want
 
 # Notes

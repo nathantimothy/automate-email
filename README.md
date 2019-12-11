@@ -9,8 +9,8 @@ Basic program that can send a personalized email to as many people as you want
 # Instructions
   1. If not already enabled, enable 2-Step Verification on your GMAIL account (https://support.google.com/accounts/answer/185839?co=GENIE.Platform%3DDesktop&hl=en)
   2. Generate and copy an app password for mail on windows computer, this will be used instead of your email password when logging into    the program. (https://support.google.com/accounts/answer/185833?hl=en)
-  3. Download the repository
+  3. Download the repository (hit "Clone or download" then "download zip" above) and then unzip it 
   4. Fill out the Automate_Emails.csv template that is located in the repository. Each row in the .csv represents a new email.
-  5. Open the Automate_Emails application found in the repository. 
+  5. Open the Automate_Emails application found in the repository (application -> dist -> Personalized_Emails (folder) -> Personalized_Emails (application))
   6. Input email account, app password, browse to file path of Automate_Emails.csv
   7. Hit go!
